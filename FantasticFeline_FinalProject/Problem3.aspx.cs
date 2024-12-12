@@ -1,7 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Web.UI;
-
+// Name: Jacob Farrell, Chase Detrick, Matthew Boutros, Andrew Rozsits
+// email:  farrelcj @mail.uc.edu, detriccg @mail.uc.edu, boutromw @mail.uc.edu, rozsitaj @mail.uc.edu
+// Assignment Number: Assignment 11/ Final Project
+// Due Date:   12 / 12 / 2024
+// Course #/Section:   IS3050 (002)
+// Semester / Year:   Fall 2024
+// Brief Description of the assignment:  This is our final project for IS3050, in this project we recreated the website LeetCode. Each member of our team solved and created code from the hard section 
+//                                        of LeetCode. Utilizing github we created a our own version of LeetCode.
+// Brief Description of what this module does. This module demonstrates our ability to collaboratively work on creating a functional website.
+// Citations: chatgpt.com, stackoverflow.com
+// Anything else that's relevant:
 namespace FantasticFeline_FinalProject
 {
     public partial class Problem3 : System.Web.UI.Page
