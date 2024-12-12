@@ -109,7 +109,7 @@
                         </tr>
                         <tr>
                             <td>2</td>
-                            <td><a href="Problem2.aspx">Add Two Numbers</a></td>
+                            <td><a href="Problem2.aspx">Shortest Impossible Sequence of Rolls</a></td>
                             <td>Hard</td>
                             <td>39%</td>
                         </tr>
