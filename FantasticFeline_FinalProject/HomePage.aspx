@@ -115,7 +115,7 @@
                         </tr>
                         <tr>
                             <td>3</td>
-                            <td><a href="Problem3.aspx">Longest Substring Without Repeating Characters</a></td>
+                            <td><a href="Problem3.aspx">N-Queens II Problem</a></td>
                             <td>Hard</td>
                             <td>47%</td>
                         </tr>
