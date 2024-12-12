@@ -1,4 +1,17 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Problem4.aspx.cs" Inherits="FantasticFeline_FinalProject.Problem4" %>
+<!--
+* Name: Jacob Farrell, Chase Detrick, Matthew Boutros, Andrew Rozsits
+* email:  farrelcj@mail.uc.edu, detriccg@mail.uc.edu, boutromw@mail.uc.edu, rozsitaj@mail.uc.edu
+* Assignment Number: Assignment 11/ Final Project
+* Due Date:   12/12/2024
+* Course #/Section:   IS3050 (002)
+* Semester/Year:   Fall 2024
+* Brief Description of the assignment:  This is our final project for IS3050, in this project we recreated the website LeetCode. Each member of our team solved and created code from the hard section 
+                                        of LeetCode. Utilizing github we created a our own version of LeetCode.
+* Brief Description of what this module does. This module demonstrates our ability to collaboratively work on creating a functional website.
+* Citations: chatgpt.com, stackoverflow.com
+* Anything else that's relevant:
+-->
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
