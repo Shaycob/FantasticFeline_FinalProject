@@ -121,7 +121,7 @@
                         </tr>
                         <tr>
                             <td>4</td>
-                            <td><a href="Problem4.aspx">Two Sum</a></td>
+                            <td><a href="Problem4.aspx">Word Ladder Problem</a></td>
                             <td>Hard</td>
                             <td>34%</td>
                         </tr>
